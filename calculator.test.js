@@ -1,4 +1,4 @@
-const calculator = require('./calculator');
+const calculator = require('./ts_test');
 
 describe("Calculator tests", () => {
     beforeAll(() => {
